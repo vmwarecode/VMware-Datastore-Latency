@@ -1,0 +1,51 @@
+{
+   "customGroups": [{
+      "resourceKind": "Function",
+      "membershipDefinition": {"ruleGroups": [{
+         "resourceKind": "Datastore",
+         "adapterKind": "VMWARE",
+         "rules": []
+      }]},
+      "adapterKind": "Container",
+      "autoResolveMembership": false,
+      "name": "All Datastores",
+      "started": true
+   }],
+   "customGroupTypes": [{
+      "resourceKind": "Function",
+      "localization": [
+         {
+            "resourceKindName": "Funktion",
+            "locale": "de"
+         },
+         {
+            "resourceKindName": "功能",
+            "locale": "zh_TW"
+         },
+         {
+            "resourceKindName": "기능",
+            "locale": "ko"
+         },
+         {
+            "resourceKindName": "機能",
+            "locale": "ja"
+         },
+         {
+            "resourceKindName": "Function",
+            "locale": "en"
+         },
+         {
+            "resourceKindName": "功能",
+            "locale": "zh_CN"
+         },
+         {
+            "resourceKindName": "Fonction",
+            "locale": "fr"
+         },
+         {
+            "resourceKindName": "Función",
+            "locale": "es"
+         }
+      ]
+   }]
+}
